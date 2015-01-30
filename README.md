@@ -49,8 +49,8 @@ In tegenstelling tot veel andere vakken die je gevolgd hebt, zijn we in deze min
 
 OW | monday | thursday 
 -----|------|------
-3-1 | 2 februari <br> Session 1: C <br > Start and introduction | 5 februari <br> Session 2: iOS and C <br> Stanford lecture 1: intro 
-3-2 | 9 februari <br> Session 3: iOS <br> Stanford lecture 2: Xcode 5 <br> testing introduction (testing assignment 1) | 12 februari <br> Session 4: iOS <br> Stanford lecture 3: Objective C <br> *iOS assignment 1* <br> designing assignment 2 <br> some debugging tips
+3-1 | 2 februari <br> Session 1: Git & GitHub <br > Start and introduction | 5 februari <br> Session 2: iOS <br> Stanford lecture 1: Logistics, iOS 8 Overview  
+3-2 | 9 februari <br> Session 3: iOS <br> Stanford lecture 2: More Xcode and Swift, MVC <br>| 12 februari <br> Session 4: iOS <br> Stanford lecture 3: Applying MVC <br> *iOS assignment 1* <br> 
 --- | Spring Break | Spring Break
 3-3 | 23 februari <br> Session 5: iOS <br> Stanford lecture 4: foundation & attributed string <br> match algorithm - testing view controller? | 26 februari <br> Session 6: iOS <br> Stanford lecture 5: View ControlleriOS <br> *iOS assignment 2*
 3-4 | 2 maart <br> Session 7: Android <br> Android video’s, chapters 1,2,3: About Android, Development Fundamentals | 5 maart <br> Session 8: iOS <br> Stanford lecture 6: Multiple MVC’s
