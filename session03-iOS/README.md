@@ -1,7 +1,7 @@
 # Session 3 IOS
 
 ## Voorbereiding 1: Stanford Lecture 2
-Bekijk de video van lecture 1 van de Stanford cursus “Developing iOS 8 apps for iPhone and iPad”
+Bekijk de video van lecture 2 van de Stanford cursus “Developing iOS 8 apps for iPhone and iPad”
 op iTunes U. Beantwoord de volgende vragen over de video-lecture:
 
 [http://goo.gl/forms/hQ4h7pm5Fi]
