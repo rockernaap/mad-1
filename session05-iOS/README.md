@@ -14,7 +14,7 @@ op iTunes U. Beantwoord de volgende vragen over de video-lecture:
 ## Voorbereiding 3: Reading Assignment 2
 Lees de delen uit het [Apple boek](https://googledrive.com/host/0BzEbtMoF6IXbNXdfQ3REdXBUaVk/The%20Swift%20Programming%20Language.pdf) die Hegarty heeft aangegeven in het bestand "Reading: Project 2" (op iTunes U). Negeer het verhaal over initializers voor UIViewControllers.
 
-** *Let op:* ** In tegenstelling tot de eerste reading assignment, hoort hier een extra klusje bij. Dat is Voorbereiding 4, maar je kunt het beste die twee tegelijkertijd doen:
+***Let op:*** In tegenstelling tot de eerste reading assignment, hoort hier een extra klusje bij. Dat is Voorbereiding 4, maar je kunt het beste die twee tegelijkertijd doen:
 
 ## Voorbereiding 4: Q&A - Questions (and Answers)
 Terwijl je Voorbereiding 3 (Reading: Project 2) doet, bedenk bij ieder hoofdstukje of je vindt dat je het echt begrepen hebt. Of dat er een aspect is waarover je meer wil weten.
@@ -26,7 +26,7 @@ Gebruik [**deze pagina**](https://github.com/HANICA/mad-1/issues/2) om twee of d
 * Vermeld het deel van het boek waar je vraag me te maken heeft. Het fijnst is het als je paginanummers gebruikt voor de PDF van het [Apple boek over Swift] (https://googledrive.com/host/0BzEbtMoF6IXbNXdfQ3REdXBUaVk/The%20Swift%20Programming%20Language.pdf)
 * Voel je vrij om, *naast* je eigen twee vragen, aan te geven welke vragen van andere studenten voor jou ook belangrijk zijn.
 
-** *Belangrijk:* ** Iedereen stuurt minstens twee vragen in. Als je geen vragen weet omdat je "alles snapte", bedenk dat discussiepunten of zaken waarover je meer zou willen weten.
+***Belangrijk:*** Iedereen stuurt minstens twee vragen in. Als je geen vragen weet omdat je "alles snapte", bedenk dat discussiepunten of zaken waarover je meer zou willen weten.
 
 Niet alle vragen zullen in de les besproken kunnen worden. Wel veel.
 
