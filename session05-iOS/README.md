@@ -9,7 +9,8 @@ Informatie uit deze assignment heb je nodig voor de kijkvragen die bij de video 
 Bekijk de video van lecture 4 van de Stanford cursus “Developing iOS 8 apps for iPhone and iPad”
 op iTunes U. Beantwoord de volgende vragen over de video-lecture:
 
-[http://goo.gl/forms/PddgjEFX6S](http://goo.gl/forms/PddgjEFX6S)
+
+[http://goo.gl/forms/ou23WN87Yf](http://goo.gl/forms/ou23WN87Yf)
 
 ## Voorbereiding 3: Reading Assignment 2
 Lees de delen uit het [Apple boek](https://googledrive.com/host/0BzEbtMoF6IXbNXdfQ3REdXBUaVk/The%20Swift%20Programming%20Language.pdf) die Hegarty heeft aangegeven in het bestand "Reading: Project 2" (op iTunes U). Negeer het verhaal over initializers voor UIViewControllers.
