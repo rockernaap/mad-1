@@ -1,6 +1,9 @@
 # mad-1
 De eerste course bestaat voor grofweg 2/3 uit iOS en voor 1/3 uit Android. Voor beide onderdelen kijk je video’s die online staan, volg je lessen die daarop gebaseerd zijn, en doe je grote programmeeropdrachten (assignments).
 
+## iOS Demo's van Paul
+[http://cs193p.stanford.edu](http://cs193p.stanford.edu)
+
 ## iOS
 Het iOS gedeelte van de cursus volgt de lessen en opdrachten van de cursus
 Developing iOS 8 Apps for iPhone and iPad, van de Amerikaanse top-universiteit Stanford. De cursus wordt gegeven door Paul Hegarty. Al het cursus materiaal voor deze cursus wordt door Stanford online beschikbaar gemaakt via iTunes U, een dienst van Apple die je kunt benaderen door het iTunes-programma te downloaden daarin te navigeren naar iTunes Store -> iTunes U, en dan te zoeken op de naam van de cursus. Voor de iPad is er een speciale iTunes U app beschikbaar. In iTunes U kun je dan “subscriben” op deze cursus, en het materiaal bekijken en downloaden.
