@@ -9,7 +9,9 @@ Kijk, voor de komende les de volgende hoofdstukken:
 * 2. Getting Started
 * 3. Development Fundamentals
 
-Beantwoord, na ieder hoofdfstuk, de volgende kijkvragen
+Beantwoord, na ieder hoofdfstuk, de volgende kijkvragen:
+[https://docs.google.com/forms/d/1PiOteh5bVHqofTlA9FnZ0RD518yrhLVArMyD6JCH4Yg/viewform?usp=send_form]
+(https://docs.google.com/forms/d/1PiOteh5bVHqofTlA9FnZ0RD518yrhLVArMyD6JCH4Yg/viewform?usp=send_form)
 
 # Voorbereiding 2: ADT installeren
 
