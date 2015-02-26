@@ -38,7 +38,7 @@ Nr | Onderdeel | Weging
 ---| --- | ---
 1. | iOS assignment 1: Programming Project 1 | vink
 2. | iOS assignment 2: Programming Project 2  | cijfer, telt 33% mee
-3. | iOS assignment 3:  | vink
+3. | iOS assignment 3: Programming Project 3 | vink
 4. | iOS assignment 4:  | cijfer, telt 33% mee
 5. | Android assignment: n-Puzzle | cijfer, telt 33% mee
 6. | Git: geef inzicht in je werkwijze | vink
