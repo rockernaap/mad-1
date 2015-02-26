@@ -9,7 +9,7 @@ Reading assignment 3 staat *niet* op het programma voor deze les. Samen met de p
 Bekijk de video van lecture 6 van de Stanford cursus “Developing iOS 8 apps for iPhone and iPad”
 op iTunes U.
 
-** *Bekijk de lecture tot 1:09:35* ** De laatste zeven minuten begint Hegarty met een onderwerp dat-ie pas in de volgende lecture afmaakt. Wij doen die zeven minuten niet nu, maar volgende week.
+***Bekijk de lecture tot 1:09:35*** De laatste zeven minuten begint Hegarty met een onderwerp dat-ie pas in de volgende lecture afmaakt. Wij doen die zeven minuten niet nu, maar volgende week.
 
 Beantwoord de volgende vragen over de video-lecture:
 
