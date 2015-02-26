@@ -12,7 +12,7 @@ Kijk, voor de komende les de volgende hoofdstukken:
 Beantwoord, na ieder hoofdfstuk, de volgende kijkvragen:
 [https://docs.google.com/forms/d/1PiOteh5bVHqofTlA9FnZ0RD518yrhLVArMyD6JCH4Yg/viewform?usp=send_form]
 (https://docs.google.com/forms/d/1PiOteh5bVHqofTlA9FnZ0RD518yrhLVArMyD6JCH4Yg/viewform?usp=send_form)
-Let op: onderstaand formulier heeft meerdere pagina’s. Klik op de doorgaan-knop
+Let op: dit formulier heeft meerdere pagina’s. Klik op de doorgaan-knop
 
 # Voorbereiding 2: ADT installeren
 
