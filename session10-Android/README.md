@@ -32,7 +32,8 @@ De eindopdracht is een schuifpuzzel-app. De gebruiker kiest een
 moeilijkheidsgraad (makkelijk = 3×3, normaal = 4×4, moeilijk = 5×5) en een afbeelding vor de puzzel.
 De schuifpuzzel zelf maken we later, nu alleen het startscherm. Laat dat er ongeveer zo uitzien:
 
-[TODO image]
+
+![Image of n-puzzle start](https://github.com/HANICA/mad-1/blob/master/assets/n-puzzle-start-menu-168x300.png)
 
 Instructies:
 
