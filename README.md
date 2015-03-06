@@ -61,4 +61,4 @@ OW | monday | thursday
 3-6 | 16 maart <br> Session 11: Android <br> Android video’s chapters 6,7,8: Navigation, Screensizes & UI | 19 maart <br> Session 12: iOS <br> Stanford lecture 8: View Controller Lifecycle, Autolayout
 3-7 | 23 maart <br> Session 13: Android <br> Android video’s chapters 9,10: Events, Menu’s, Action Bar | 26 maart <br> Session 14: iOS <br> Stanford lecture 9: Scroll View and Multithreading
 3-8 | 30 maart <br> Session 15: Android <br> Android video’s, chapter 11: Working with Data | 2 april <br> Session 16: iOS <br> lecture 10: Table View
-3-9 | Gedurende de week <br> ***Assessment iOS assignment 4: Programming Project 3***  en ***assessment Android assignment: n-Puzzle***
+3-9 | Gedurende de week <br> **_Assessment iOS assignment 4: Programming Project 3_**  en **_assessment Android assignment: n-Puzzle_**
