@@ -34,11 +34,11 @@ Voor het Android-gedeelte doen we één eindopdracht, die we in gedeeltes verspr
 
 ## Toetsing
 
-Nr | Onderdeel | Weging 
+Nr | Onderdeel | Weging
 ---| --- | ---
 1. | iOS assignment 1: Programming Project 1 | vink
 2. | iOS assignment 2: Programming Project 2  | cijfer, telt 33% mee
-3. | iOS assignment 3: Deze opdracht vervarlt | vink
+3. | iOS assignment 3: Deze opdracht vervalt | vink
 4. | iOS assignment 4: Programming Project 3 | cijfer, telt 33% mee
 5. | Android assignment: n-Puzzle | cijfer, telt 33% mee
 6. | Git: geef inzicht in je werkwijze | vink
@@ -50,14 +50,14 @@ In tegenstelling tot veel andere vakken die je gevolgd hebt, zijn we in deze min
 
 ## Lesplanning
 
-OW | monday | thursday 
+OW | monday | thursday
 -----|------|------
 3-1 | 2 februari <br> Session 1: Git & GitHub <br > Start and introduction | 5 februari <br> Session 2: iOS <br> Stanford lecture 1: Logistics, iOS 8 Overview  
-3-2 | 9 februari <br> Session 3: iOS <br> Stanford lecture 2: More Xcode and Swift, MVC <br>| 12 februari <br> Session 4: iOS <br> Stanford lecture 3: Applying MVC <br> **_iOS assignment 1 (Programming: Project 1)_** <br> 
+3-2 | 9 februari <br> Session 3: iOS <br> Stanford lecture 2: More Xcode and Swift, MVC <br>| 12 februari <br> Session 4: iOS <br> Stanford lecture 3: Applying MVC <br> **_iOS assignment 1 (Programming: Project 1)_** <br>
 --- | Spring Break | Spring Break
 3-3 | 23 februari <br> Session 5: iOS <br> Stanford lecture 4: More Swift and Foundation Frameworks | 26 februari <br> Session 6: iOS <br> Stanford lecture 5: Objective-C Compatibility, Property List, Views  
-3-4 | 2 maart <br> Session 7: iOS <br> Stanford lecture 6: <br> **_iOS assignment 2 (Programming: Project 2)_** | 5 maart <br> Session 8: Android <br> Android video’s, chapters 1,2,3: About Android, Development Fundamentals 
-3-5 |  9 maart <br> Session 9: iOS <br> Stanford lecture 7: Multiple MVCs| 12 maart <br> Session 10: Android <br> Android video’s, chapters 4,5: Activities & Debugging 
+3-4 | 2 maart <br> Session 7: iOS <br> Stanford lecture 6: <br> **_iOS assignment 2 (Programming: Project 2)_** | 5 maart <br> Session 8: Android <br> Android video’s, chapters 1,2,3: About Android, Development Fundamentals
+3-5 |  9 maart <br> Session 9: iOS <br> Stanford lecture 7: Multiple MVCs| 12 maart <br> Session 10: Android <br> Android video’s, chapters 4,5: Activities & Debugging
 3-6 | 16 maart <br> Session 11: Android <br> Android video’s chapters 6,7,8: Navigation, Screensizes & UI | 19 maart <br> Session 12: iOS <br> Stanford lecture 8: View Controller Lifecycle, Autolayout
 3-7 | 23 maart <br> Session 13: Android <br> Android video’s chapters 9,10: Events, Menu’s, Action Bar | 26 maart <br> Session 14: iOS <br> Stanford lecture 9: Scroll View and Multithreading
 3-8 | 30 maart <br> Session 15: Android <br> Android video’s, chapter 11: Working with Data | 2 april <br> Session 16: iOS <br> lecture 10: Table View
