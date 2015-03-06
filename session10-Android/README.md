@@ -1,4 +1,4 @@
-# Session 10: Android (NOG NIET KLAAR)
+# Session 10: Android 
 
 ## Voorbereiding 1: Video’s kijken
 
