@@ -49,7 +49,7 @@ Instructies:
 Hieronder een stukje code dat je kunt toevoegen aan de onCreate methode van je Activity:
 
 ```java
-Field[] afbeeldingResources = R.drawable.class.getFields();
+Field[] afbeeldingResources = R.mipmap.class.getFields(); //of R.drawable.class.getFields(); 
 for (Field f : afbeeldingResources) {
    try {
       String name = f.getName();
