@@ -11,9 +11,9 @@ Kijk, voor de komende les de volgende hoofdstukken:
 * 5. Debugging Android AppsVier video’s, 23 minuten.
 
 Beantwoord, na ieder hoofdfstuk, onderstaande kijkvragen:
-
+[https://docs.google.com/forms/d/1cSvs8D1Vx1SSuVgwi9G_1PsS_fPgmiY_oNOdgwPPCXQ/viewform?usp=send_form]
+(https://docs.google.com/forms/d/1cSvs8D1Vx1SSuVgwi9G_1PsS_fPgmiY_oNOdgwPPCXQ/viewform?usp=send_form)
 (let op: dit formulier heeft meerdere pagina’s. Klik op de doorgaan-knop)
-
 
 ## Voorbereiding 2: Android Research
 
@@ -21,6 +21,9 @@ Gebruik de officiële Android documentatie op http://developer.android.com/devel
 wat onderzoek te doen naar de View-klasse, scalable points, context en radiobuttons. 
 Geef bij ieder vraag 1 of 2 links naar de officiele Android-docs waarin je het antwoord 
 gevonden hebt.
+
+[https://docs.google.com/forms/d/1ZDBp14iM9X36oPkkjThDVVIEKFykEen9v7X50udVDgw/viewform?usp=send_form]
+(https://docs.google.com/forms/d/1ZDBp14iM9X36oPkkjThDVVIEKFykEen9v7X50udVDgw/viewform?usp=send_form)
 
 ## Voorbereiding 3: Android Appie
 
