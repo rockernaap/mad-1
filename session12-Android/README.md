@@ -1,6 +1,6 @@
 # Session 12: Android (inhalen van Session 8 en session 10)
 
-Deze les bespreken we session 8 en session 10. Hieronder staat de voorbereiding van deze sessions
+Deze les bespreken we session 8 en session 10. Hieronder staat de voorbereiding van deze sessions herhaald.
 
 # Session 8: Android
 ## Voorbereiding 1: Video’s kijken
