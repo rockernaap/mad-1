@@ -1,4 +1,4 @@
-# Session 13: Android: images, styles, events & menus (NOG NIET KLAAR)
+# Session 14: Android: images, styles, events & menus (NOG NIET KLAAR)
 ## Voorbereiding 1: Video’s kijken
 
 Bekijk, van de Lynda.com serie Android-SDK Essential Training, de volgende hoofdstukken:
