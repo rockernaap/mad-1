@@ -10,7 +10,7 @@ Bekijk, van de Lynda.com serie Android-SDK Essential Training, de volgende hoofd
 Hoofdstukken 7,8 en 9 stellen we uit naar de volgende week. Op deze manier kunnen we eerder samen nadenken over de opzet van de Android eindopdracht.
 
 Beantwoord, na ieder hoofdfstuk, onderstaande kijkvragen:
-(let op: onderstaand formulier heeft meerdere pagina’s. Klik op de doorgaan-knop)
+[http://goo.gl/forms/of4SbUA2it](http://goo.gl/forms/of4SbUA2it)
 
 ## Voorbereiding 2: ListActivities zijn niet nodig
 
