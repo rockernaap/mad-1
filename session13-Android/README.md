@@ -2,7 +2,7 @@
 
 ## Tip:
 Voor iedereen die verantwoord kleurgebruik leuk vindt en geen tijd:
-Een Material Palette generator [www.materialpalette.com/](www.materialpalette.com/)
+een Material Design palette generator [www.materialpalette.com/](www.materialpalette.com/)
 
 ## Voorbereiding 1: Video’s kijken
 
