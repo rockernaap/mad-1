@@ -1,5 +1,9 @@
 # Session 13: Android — Activity Navigation & Lists
 
+## Tip:
+Voor iedereen die verantwoord kleurgebruik leuk vindt en geen tijd:
+Een Material Palette generator [www.materialpalette.com/](www.materialpalette.com/)
+
 ## Voorbereiding 1: Video’s kijken
 
 Bekijk, van de Lynda.com serie Android-SDK Essential Training, de volgende hoofdstukken:
