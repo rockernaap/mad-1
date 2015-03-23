@@ -11,7 +11,7 @@ Bekijk, van de Lynda.com serie Android-SDK Essential Training, de volgende hoofd
 Alles bij elkaar een kleine anderhalf uur dus. Dit zijn alle video’s. Volgende week kijken we geen video’s meer.
 kijkvragen
 
-[TODO](TODO)
+[http://goo.gl/forms/1VySQNDJVg](http://goo.gl/forms/1VySQNDJVg)
 
 ## Voorbereiding 2: bestudeer de eindopdracht, en maak een plannetje
 
