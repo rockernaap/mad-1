@@ -8,8 +8,7 @@ Bekijk, van de Lynda.com serie Android-SDK Essential Training, de volgende hoofd
 * 9. Working with Events. Drie video’s, 22 minuten.
 * 10. Working with Menus and the Action Bar. Drie video’s, 17 minuten.
 
-Alles bij elkaar een kleine anderhalf uur dus. Dit zijn alle video’s. Volgende week kijken we geen video’s meer.
-kijkvragen
+Alles bij elkaar een kleine anderhalf uur dus. Kijkvragen:
 
 [http://goo.gl/forms/1VySQNDJVg](http://goo.gl/forms/1VySQNDJVg)
 
