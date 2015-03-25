@@ -60,5 +60,5 @@ OW | monday | thursday
 3-5 | 9 maart <br> Session 9: iOS <br> Stanford lecture 7: Multiple MVCs| 12 maart <br><br>_vervallen wegens ziekte_<br>(schuift door naar donderdag 19 maart)
 3-6 | 16 maart <br> Session 11: iOS <br> Stanford lecture 8: View Controller Lifecycle, Autolayout| 19 maart <br> Session 12 - eerste twee Android sessies inhalen: <br><ul><li>Android video’s, chapters 1,2,3: About Android, Development Fundamentals</li><li>Android video’s, chapters 4,5: Activities & Debugging</li></ul>
 3-7 | 23 maart <br> Session 13: Android <br> Android video’s chapters 6 en 11: Navigation & Working with Data | 26 maart <br> Session 14: Android <br> Android video's 7,8,9 & 10: Screensizes, UI, Events, Menu's & ActionBar
-3-8 | 30 maart <br> Session 15: iOS <br> Stanford lecture 9: Scroll View and Multithreading | 2 april <br> Session 16: iOS <br> lecture 10: Table View
+3-8 | 30 maart <br> Session 15: _Vervalt vanwege de studiedag_. | 2 april <br> Session 16: iOS<br> Stanford lecture 9: Scroll View and Multithreading 
 3-9 | Gedurende de week <br> **_Assessment iOS assignment 4: Programming Project 3_**  en **_assessment Android assignment: n-Puzzle_**
